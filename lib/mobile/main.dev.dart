@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-// import 'package:moor/moor.dart';
-// import 'package:moor_ffi/moor_ffi.dart';
+import 'package:moor/moor.dart';
+import 'package:moor_ffi/moor_ffi.dart';
 import '../myHomePage.dart';
 
 void main() => runApp(MyApp());
